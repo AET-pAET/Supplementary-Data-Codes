@@ -2,13 +2,13 @@
 
 Folder: [Projections](./1.11_projections)
 
-This folder contains the projections ... (add other content to describe the folder)
+This folder contains the projections  
 
 #### 1.12 Reconstruction
 
 Folder: [Reconstructions](./1.12_reconstructions)
 
-This folder contains the tomography reconstruction result from ... (add other content to describe the folder)
+This folder contains the tomography reconstruction result from  
 
 #### 1.13 Atom Tracing
 
