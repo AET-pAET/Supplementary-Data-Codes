@@ -57,7 +57,7 @@ This folder contains the simulation data of a SiGeSn nanoparticle with size of 8
 
 ### 3.1 NP3_aSiGeSn_D8nm_Projection_From_Busch
 
-Folder: [SiGeSn Nanopartile 8nm_From_Busch](./NP3_aSiGeSn_D8nm_Projection_From_Busch)
+Folder: [SiGeSn Nanopartile 8nm From Busch](./NP3_aSiGeSn_D8nm_Projection_From_Busch)
 
 This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm ... (add other content to describe the folder)
 
