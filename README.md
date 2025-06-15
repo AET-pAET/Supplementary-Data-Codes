@@ -81,9 +81,9 @@ This folder contains the tomography reconstruction result from ... (add other co
 
 #### 1.13 Atom Tracing
 
-Folder: [Tracing Atom Position](./NP1_aSi_D2nm_Projeciton_From_Busch/1.13_tracing)
+Folder: [Tracing Atom Position](./NP1_aSi_D2nm_Projeciton_From_Busch/1.13_tracing_classification)
 
-Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
+Run the k-mean classification code to distinguish atom from non-atom. Run the RMSD calculation code to obtain the accuracy of the traced atom.
 
 
 
