@@ -61,7 +61,7 @@ Folder: [Classification and RMSD](./NP1_aSi_D2nm/1.4_classification_CalRMSD)
 Run the k-mean classification code to distinguish atom from non-atom. Run the RMSD calculation code to obtain the accuracy of the traced atom.
 
 
-### 2. NP1_aSi_D2nm
+### 1.1 NP1_aSi_D2nm
 
 Folder: [Si Nanopartile 2nm_Projeciton_From_Busch](./NP1_aSi_D2nm_Projeciton_From_Busch)
 
