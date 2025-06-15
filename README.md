@@ -83,7 +83,7 @@ This folder contains the tomography reconstruction result from ... (add other co
 
 Folder: [Tracing Atom Position](./NP1_aSi_D2nm_Projeciton_From_Busch/1.13_tracing)
 
-Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
+Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles ... (add other content to describe the folder)
 
 
 
