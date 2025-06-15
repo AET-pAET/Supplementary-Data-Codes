@@ -79,8 +79,11 @@ Folder: [SiO2 Nanopartile 6nm](./NP5_aSiO2_D6nm)
 
 This folder contains the simulation data of a SiO2 nanoparticle with size of 6nm diameter ... (add other content to describe the folder)
 
+### 6. BM3D_code
 
+Folder: [BM3D](./BM3D_code)
 
+This folder contains the BM3D algorithm we use. (citation?) [ref]
 
 
 
