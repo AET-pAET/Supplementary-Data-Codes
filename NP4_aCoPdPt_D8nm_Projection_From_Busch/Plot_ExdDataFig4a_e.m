@@ -1,10 +1,13 @@
-load('SiGeSn_40pA_reconres_busch_denoised_aligned.mat', 'rec3')
-load('OPtomo_res_up3_SiGeSn_40pA_denoised_aligned.mat')
-load('SiGeSn_40pA_10us.mat')
+close all; clear all
+%%
+load('SiGeSn_40pA_reconres_busch_denoised_aligned.mat', 'rec3');% Reconstruction after alignment using RESIRE
+load('SiGeSn_40pA_10us.mat');% Reconstruction before alignment using Busch's projection and code
 %% compare reconstruction
-SIRT_rot90 = flip(rot90(SIRT,1),1);
+%SIRT_rot90 = flip(rot90(SIRT,1),1);
 SIRT_int_rot90 = flip(rot90(SIRT_int,1),1);
 img(sum(SIRT_int_rot90(:,:,255:259),3),[],sum(rec3(:,:,255:259),3),[],'colormap','gray');
+%
+%print('-r600','-djpeg','ExtData_Fig4de.jpg');
 %% plot CM
 load('SiGeSn_40pA_align_2.mat', 'CoM_Loct')
 figure(11); set(gcf,'position',[250,250,300,250]);
@@ -17,6 +20,7 @@ set(gca, 'Layer', 'top')
 legend boxoff   
 xlabel(['Image numbers'])
 ylabel('Shift (Å)')
+%print('-r600','-djpeg','ExtData_Fig4a.jpg');
 %% Busch_commonline
 load('SiGeSn_40pA_imgStackDeblur.mat')
 plotCommonLine(imgStackDeblur,2)
@@ -28,7 +32,7 @@ set(gca,'FontSize',10,'FontName', 'Arial','linewidth',1.0);
 xlabel(['Y (pixel)'])
 ylabel('Summed Intensity')
 xticks(0:100:500)
-% print('-r500','-dpdf','aSiGeSn_Busch_commonline.pdf');
+%print('-r600','-djpeg','ExtData_Fig4b.jpg');
 %% commonline after alignment
 load('SiGeSn_40pA_bm3d_mask_shift2.mat')
 plotCommonLine(Dset_ys_mask_shift2,2)
@@ -40,6 +44,5 @@ set(gca,'FontSize',10,'FontName', 'Arial','linewidth',1.0);
 xlabel(['Y (pixel)'])
 ylabel('Summed Intensity')
 xticks(0:100:500)
-% print('-r500','-dpdf','Fig6_SiGeSn_bm3d_mask_shift2_commonline.pdf');
-%%
+%print('-r600','-djpeg','ExtData_Fig4c.jpg');
 
