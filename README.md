@@ -36,60 +36,42 @@ Folder: [Si Nanopartile 2nm](./NP1_aSi_D2nm)
 
 This folder contains the simulation data of a Si nanoparticle with size of 2nm ... (add other content to describe the folder)
 
-#### 1.1 projections
+### 1.1. NP1_aSi_D2nm_From_Busch
 
-Folder: [Projections](./NP1_aSi_D2nm/1.1_projections)
-
-This folder contains the projections after alignment as well as their corresponding angles.
-
-#### 1.2 Reconstruction
-
-Folder: [Reconstructions](./NP1_aSi_D2nm/1.2_reconstructions)
-
-Run the tomography reconstruction code to obtain the 3D reconstruction of the nanoparticles.
-
-#### 1.3 Atom Tracing
-
-Folder: [Tracing Atom Position](./NP1_aSi_D2nm/1.3_tracing)
-
-Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
-
-#### 1.4 Atom Classification and RMSD Calculation 
-
-Folder: [Classification and RMSD](./NP1_aSi_D2nm/1.4_classification_CalRMSD)
-
-Run the k-mean classification code to distinguish atom from non-atom. Run the RMSD calculation code to obtain the accuracy of the traced atom.
-
-
-### 1.1 NP1_aSi_D2nm
-
-Folder: [Si Nanopartile 2nm_Projeciton_From_Busch](./NP1_aSi_D2nm_Projeciton_From_Busch)
+Folder: [Si Nanopartile 2nm_From_Busch](./NP1_aSi_D2nm_Projeciton_From_Busch)
 
 This folder contains the simulation data of a Si nanoparticle with size of 2nm ... (add other content to describe the folder)
 
-#### 1.11 projections
+### 2. NP2_aSi_D9nmm
 
-Folder: [Projections](./NP1_aSi_D2nm_Projeciton_From_Busch/1.11_projections)
+Folder: [Si Nanopartile 9nm](./NP2_aSi_D9nm)
 
-This folder contains the projections ... (add other content to describe the folder)
-
-#### 1.12 Reconstruction
-
-Folder: [Reconstructions](./NP1_aSi_D2nm_Projeciton_From_Busch/1.12_reconstructions)
-
-This folder contains the tomography reconstruction result from ... (add other content to describe the folder)
-
-#### 1.13 Atom Tracing
-
-Folder: [Tracing Atom Position](./NP1_aSi_D2nm_Projeciton_From_Busch/1.13_tracing_classification)
-
-Run the k-mean classification code to distinguish atom from non-atom. Run the RMSD calculation code to obtain the accuracy of the traced atom.
+This folder contains the simulation data of a Si nanoparticle with size of 9nm ... (add other content to describe the folder)
 
 
+### 3. NP3_aSiGeSn_D8nm
 
+Folder: [SiGeSn Nanopartile 8nm](./NP3_aSiGeSn_D8nm)
 
+This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm ... (add other content to describe the folder)
 
+### 3.1. NP3_aSiGeSn_D8nm_Projection_From_Busch
 
+Folder: [SiGeSn Nanopartile 8nm From Busch](./NP3_aSiGeSn_D8nm_Projection_From_Busch)
+
+This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm ... (add other content to describe the folder)
+
+### 4. NP4_aCoPdPt_D8nm
+
+Folder: [CoPdPt Nanopartile 8nm](./NP4_aCoPdPt_D8nm)
+
+This folder contains the simulation data of a CoPdPt nanoparticle with size of 8nm ... (add other content to describe the folder)
+
+### 5. NP5_aSiO2_D6nm
+
+Folder: [SiO2 Nanopartile 6nm](./NP5_aSiO2_D6nm)
+
+This folder contains the simulation data of a SiO2 nanoparticle with size of 6nm ... (add other content to describe the folder)
 
 
 
