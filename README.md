@@ -87,6 +87,37 @@ Run the k-mean classification code to distinguish atom from non-atom. Run the RM
 
 
 
+### 2 NP2_aSi_D9nmm
+
+Folder: [Si Nanopartile 9nm](./NP2_aSi_D9nmm)
+
+This folder contains the simulation data of a Si nanoparticle with size of 9nm ... (add other content to describe the folder)
+
+#### 1.1 projections
+
+Folder: [Projections](./NP2_aSi_D9nmm/2.1_projections)
+
+This folder contains the projections after alignment as well as their corresponding angles.
+
+#### 1.2 Reconstruction
+
+Folder: [Reconstructions](./NP2_aSi_D9nmm/2.2_reconstructions)
+
+Run the tomography reconstruction code to obtain the 3D reconstruction of the nanoparticles.
+
+#### 1.3 Atom Tracing
+
+Folder: [Tracing Atom Position](./NP2_aSi_D9nmm/2.3_tracing)
+
+Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
+
+#### 1.4 Atom Classification and RMSD Calculation 
+
+Folder: [Classification and RMSD](./NP2_aSi_D9nmm/2.4_classification_CalRMSD)
+
+Run the k-mean classification code to distinguish atom from non-atom. Run the RMSD calculation code to obtain the accuracy of the traced atom.
+
+
 
 
 
