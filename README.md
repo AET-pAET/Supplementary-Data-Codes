@@ -67,21 +67,21 @@ Folder: [Si Nanopartile 2nm_Projeciton_From_Busch](./NP1_aSi_D2nm_Projeciton_Fro
 
 This folder contains the simulation data of a Si nanoparticle with size of 2nm ... (add other content to describe the folder)
 
-#### 1.1 projections
+#### 1.11 projections
 
-Folder: [Projections](./NP1_aSi_D2nm/1.1_projections)
+Folder: [Projections](./NP1_aSi_D2nm_Projeciton_From_Busch/1.11_projections)
 
-This folder contains the projections after alignment as well as their corresponding angles.
+This folder contains the projections ... (add other content to describe the folder)
 
-#### 1.2 Reconstruction
+#### 1.12 Reconstruction
 
-Folder: [Reconstructions](./NP1_aSi_D2nm/1.2_reconstructions)
+Folder: [Reconstructions](./NP1_aSi_D2nm_Projeciton_From_Busch/1.12_reconstructions)
 
-Run the tomography reconstruction code to obtain the 3D reconstruction of the nanoparticles.
+This folder contains the tomography reconstruction result from ... (add other content to describe the folder)
 
-#### 1.3 Atom Tracing
+#### 1.13 Atom Tracing
 
-Folder: [Tracing Atom Position](./NP1_aSi_D2nm/1.3_tracing)
+Folder: [Tracing Atom Position](./NP1_aSi_D2nm_Projeciton_From_Busch/1.13_tracing)
 
 Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
 
