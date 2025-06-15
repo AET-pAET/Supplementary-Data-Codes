@@ -34,7 +34,11 @@ This package has been tested with `Matlab` R2022b. All the codes have to run in 
 
 Folder: [Si Nanopartile 2nm](./NP1_aSi_D2nm)
 
-This folder contains the simulation data of a Si nanoparticle with 2nm (diameter?) (add other content to discribe this folder)...
+This folder contains the simulation data of a Si nanoparticle with size of 2nm ... (add other content to describe the folder)
+
+
+#### 1.1 projections
+
 
 
 
