@@ -124,25 +124,25 @@ Folder: [SiGeSn Nanopartile 9nm](./NP3_aSiGeSn_D8nm)
 
 This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm ... (add other content to describe the folder)
 
-#### 2.1 projections
+#### 3.1 projections
 
 Folder: [Projections](./NP3_aSiGeSn_D8nm/3.1_projections)
 
 This folder contains the projections after alignment as well as their corresponding angles.
 
-#### 2.2 Reconstruction
+#### 3.2 Reconstruction
 
 Folder: [Reconstructions](./NP3_aSiGeSn_D8nm/3.2_reconstructions)
 
 Run the tomography reconstruction code to obtain the 3D reconstruction of the nanoparticles.
 
-#### 2.3 Atom Tracing
+#### 3.3 Atom Tracing
 
 Folder: [Tracing Atom Position](./NP3_aSiGeSn_D8nm/3.3_tracing)
 
 Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
 
-#### 2.4 Atom Classification and RMSD Calculation 
+#### 3.4 Atom Classification and RMSD Calculation 
 
 Folder: [Classification and RMSD](./NP3_aSiGeSn_D8nm/3.4_classification_CalRMSD)
 
