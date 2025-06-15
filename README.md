@@ -30,6 +30,11 @@ This package has been tested with `Matlab` R2022b. All the codes have to run in 
 # Repositary Contents
 
 
+### 1. NP1_aSi_D2nm
+
+Folder: [Si Nanopartile 2nm](./NP1_aSi_D2nm)
+
+
 
 
 
