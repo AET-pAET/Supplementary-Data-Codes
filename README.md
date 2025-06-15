@@ -55,6 +55,12 @@ Folder: [Projections](./NP1_aSi_D2nm/1.3_tracing)
 
 Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
 
+#### 1.4 Atom Classification and RMSD Calculation 
+
+Folder: [Projections](./NP1_aSi_D2nm/1.4_classification_CalRMSD)
+
+Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in the nanoparticles.
+
 
 
 
