@@ -67,6 +67,12 @@ Folder: [CoPdPt Nanopartile 8nm](./NP4_aCoPdPt_D8nm)
 
 This folder contains the simulation data of a CoPdPt nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
 
+### 4.1. NP4_aCoPdPt_D8nm_Projection_From_Busch
+
+Folder: [CoPdPt Nanopartile 8nm From Busch](./NP4_aCoPdPt_D8nm_Projection_From_Busch)
+
+This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
+
 ### 5. NP5_aSiO2_D6nm
 
 Folder: [SiO2 Nanopartile 6nm](./NP5_aSiO2_D6nm)
