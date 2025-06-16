@@ -34,48 +34,62 @@ This package has been tested with `Matlab` R2022b. All the codes have to run in 
 
 Folder: [Si Nanopartile 2nm](./NP1_aSi_D2nm)
 
-This folder contains the simulation data of a Si nanoparticle with size of 2nm ... (add other content to describe the folder)
+This folder contains the simulation data of a Si nanoparticle with size of 2nm diameter ... (add other content to describe the folder)
 
 ### 1.1. NP1_aSi_D2nm_From_Busch
 
 Folder: [Si Nanopartile 2nm_From_Busch](./NP1_aSi_D2nm_Projeciton_From_Busch)
 
-This folder contains the simulation data of a Si nanoparticle with size of 2nm ... (add other content to describe the folder)
+This folder contains the simulation data of a Si nanoparticle with size of 2nm diameter ... (add other content to describe the folder)
 
 ### 2. NP2_aSi_D9nmm
 
 Folder: [Si Nanopartile 9nm](./NP2_aSi_D9nm)
 
-This folder contains the simulation data of a Si nanoparticle with size of 9nm ... (add other content to describe the folder)
+This folder contains the simulation data of a Si nanoparticle with size of 9nm diameter ... (add other content to describe the folder)
 
 
 ### 3. NP3_aSiGeSn_D8nm
 
 Folder: [SiGeSn Nanopartile 8nm](./NP3_aSiGeSn_D8nm)
 
-This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm ... (add other content to describe the folder)
+This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
 
 ### 3.1. NP3_aSiGeSn_D8nm_Projection_From_Busch
 
 Folder: [SiGeSn Nanopartile 8nm From Busch](./NP3_aSiGeSn_D8nm_Projection_From_Busch)
 
-This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm ... (add other content to describe the folder)
+This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
 
 ### 4. NP4_aCoPdPt_D8nm
 
 Folder: [CoPdPt Nanopartile 8nm](./NP4_aCoPdPt_D8nm)
 
-This folder contains the simulation data of a CoPdPt nanoparticle with size of 8nm ... (add other content to describe the folder)
+This folder contains the simulation data of a CoPdPt nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
+
+### 4.1. NP4_aCoPdPt_D8nm_Projection_From_Busch
+
+Folder: [CoPdPt Nanopartile 8nm From Busch](./NP4_aCoPdPt_D8nm_Projection_From_Busch)
+
+This folder contains the simulation data of a CoPdPt nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
 
 ### 5. NP5_aSiO2_D6nm
 
 Folder: [SiO2 Nanopartile 6nm](./NP5_aSiO2_D6nm)
 
-This folder contains the simulation data of a SiO2 nanoparticle with size of 6nm ... (add other content to describe the folder)
+This folder contains the simulation data of a SiO2 nanoparticle with size of 6nm diameter ... (add other content to describe the folder)
 
+### 6. BM3D_code
 
+Folder: [BM3D](./BM3D_code)
 
+This folder contains the BM3D algorithm we use. (citation?) [ref] ... (add other content to describe the folder)
 
+### 7. SIRT_Code_From_Busch
+
+Folder: [SIRT](./SIRT_Code_From_Busch)
+
+This folder contains the SIRT algorithm used by Busch. (citation?) [ref] ... (add other content to describe the folder)
 
 
 
