@@ -1,5 +1,8 @@
 # Supplementary-Data-Codes
 
+**Methods for accurate determination of the 3D atomic structure of amorphous materials**
+
+
 ## Contents
 
 - [Overview](#overview)
@@ -76,9 +79,9 @@ This folder contains the simulation data of a CoPdPt nanoparticle with size of 8
 
 ### 5. NP5_aSiO2_D6nm
 
-Folder: [SiO2 Nanopartile 6nm](./NP5_aSiO2_D6nm)
+Folder: [SiO<sub>2</sub> Nanopartile 6nm](./NP5_aSiO2_D6nm)
 
-This folder contains the simulation data of a SiO2 nanoparticle with size of 6nm diameter ... (add other content to describe the folder)
+This folder contains the simulation data of a SiO<sub>2</sub> nanoparticle with size of 6nm diameter ... (add other content to describe the folder)
 
 ### 6. BM3D_code
 
