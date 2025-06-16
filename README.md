@@ -2,6 +2,7 @@
 
 **Methods for accurate determination of the 3D atomic structure of amorphous materials**
 
+Yuxuan Liao<sup>1</sup>, Haozhi Sha<sup>1</sup>, Colum M. O’Leary<sup>1</sup>, Hanfeng Zhong<sup>1</sup>, Yao Yang<sup>2</sup>, and Jianwei Miao<sup>1*</sup>
 
 ## Contents
 
