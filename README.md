@@ -61,47 +61,47 @@ Folder: [Si Nanoparticle 19993](./NP2_aSi_19993)
 This folder contains the simulated data and source codes for the application of the AET workflow to a 19993-atom amorphous Si nanoparticle.
 
 
-### 3. NP3_aSiGeSn_D8nm
+### 3. NP3_aSiGeSn
 
-Folder: [SiGeSn Nanopartile 8nm](./NP3_aSiGeSn_D8nm)
+Folder: [SiGeSn Nanoparticle](./NP3_aSiGeSn)
 
-This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
+This folder contains the simulated data and source codes for the application of the AET workflow to an amorphous SiGeSn nanoparticle, containing 4,610 Si, 4,709 Ge, and 4,663 Sn atoms.
 
-### 3.1. NP3_aSiGeSn_D8nm_Projection_From_Busch
+### 3.1. NP3_aSiGeSn_Projection_from_Busch
 
-Folder: [SiGeSn Nanopartile 8nm From Busch](./NP3_aSiGeSn_D8nm_Projection_From_Busch)
+Folder: [SiGeSn Nanoparticle from Busch](./NP3_aSiGeSn_Projection_from_Busch)
 
-This folder contains the simulation data of a SiGeSn nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
+This folder contains the simulated data and source codes used for the reconstruction of an amorphous SiGeSn nanoparticle by Busch et al.
 
-### 4. NP4_aCoPdPt_D8nm
+### 4. NP4_aCoPdPt
 
-Folder: [CoPdPt Nanopartile 8nm](./NP4_aCoPdPt_D8nm)
+Folder: [CoPdPt Nanoparticle](./NP4_aCoPdPt)
 
-This folder contains the simulation data of a CoPdPt nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
+This folder contains the simulated data and source codes for the application of the AET workflow to an amorphous CoPdPt nanoparticle, containing 8,322 Co, 6,896 Pd, and 3,138 Pt atoms. 
 
-### 4.1. NP4_aCoPdPt_D8nm_Projection_From_Busch
+### 4.1. NP4_aCoPdPt_Projection_from_Busch
 
-Folder: [CoPdPt Nanopartile 8nm From Busch](./NP4_aCoPdPt_D8nm_Projection_From_Busch)
+Folder: [CoPdPt Nanoparticle from Busch](./NP4_aCoPdPt_Projection_from_Busch)
 
-This folder contains the simulation data of a CoPdPt nanoparticle with size of 8nm diameter ... (add other content to describe the folder)
+This folder contains the simulated data and source codes used for the reconstruction of an amorphous CoPdPt nanoparticle by Busch et al.
 
-### 5. NP5_aSiO2_D6nm
+### 5. NP5_aSiO2
 
-Folder: [SiO<sub>2</sub> Nanopartile 6nm](./NP5_aSiO2_D6nm)
+Folder: [SiO2 Nanoparticle](./NP5_aSiO2)
 
-This folder contains the simulation data of a SiO<sub>2</sub> nanoparticle with size of 6nm diameter ... (add other content to describe the folder)
+This folder contains the simulated data and source codes for the application of the pAET workflow to an amorphous SiO2 nanoparticle, containing 2,603 Si and 5,101 O atoms. 
 
-### 6. BM3D_code
+### 6. BM3D_Codes
 
-Folder: [BM3D](./BM3D_code)
+Folder: [BM3D](./BM3D_Codes)
 
-This folder contains the BM3D algorithm we use. (citation?) [ref] ... (add other content to describe the folder)
+This folder contains the BM3D source code used for image denoising.
 
-### 7. SIRT_Code_From_Busch
+### 7. SIRT_Code_from_Busch
 
-Folder: [SIRT](./SIRT_Code_From_Busch)
+Folder: [SIRT](./SIRT_Code_from_Busch)
 
-This folder contains the SIRT algorithm used by Busch. (citation?) [ref] ... (add other content to describe the folder)
+This folder contains the SIRT source code as used by Busch et al. in their reconstructions. 
 
 
 
