@@ -22,7 +22,7 @@ ref_pos_Co = ref_pos(:,ID_Co);%
 ref_pos_Pd = ref_pos(:,ID_Pd);% 
 ref_pos_Pt = ref_pos(:,ID_Pt);% 
 %%
-Model=load('Model_CoPdPt_Dose5p6e4_BM3D_RESIRE_check.mat'); 
+Model=load('Model_CoPdPt_Dose5p6e4_BM3D_RESIRE.mat'); 
 
 atoms=Model.temp_model;
 atoms_type=Model.temp_atomtype;
