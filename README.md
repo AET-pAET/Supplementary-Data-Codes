@@ -17,6 +17,8 @@ Yuxuan Liao<sup>1</sup>, Haozhi Sha<sup>1</sup>, Colum M. O’Leary<sup>1</sup>,
 
 # Overview
 
+This supplementary repository provides all data and MATLAB source codes associated with our paper, “Methods for accurate determination of the 3D atomic structure of amorphous materials.” It includes complete and reproducible workflows for robust image preprocessing, precise projection alignment, advanced tomographic reconstruction using the RESIRE algorithm, and systematic postprocessing for atomic tracing and elemental classification. These tools enable accurate 3D atomic structure determination across a range of disordered material systems. The repository supports both ADF-STEM-based atomic electron tomography (AET) and ptychographic AET (pAET), allowing researchers to reproduce key results, benchmark against published simulations, and apply the methodology to new experimental or simulated datasets. Code and data are modularly organized to facilitate adaptation to other atomic-scale imaging problems.
+
 # System Requirements
 
 ## Hardware Requirements
