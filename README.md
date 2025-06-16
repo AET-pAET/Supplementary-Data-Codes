@@ -1,6 +1,6 @@
 # Supplementary-Data-Codes
 
-# Contents
+## Contents
 
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
