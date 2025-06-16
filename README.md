@@ -39,7 +39,7 @@ Mac OSX: We have not tested it on a Mac yet, but it should in principle work.
 
 This package has been tested with `Matlab` R2022b. All the codes have to run in their own folders. We recommend the use of `Matlab` version R2021a or higher to test the data and source codes.
 
-# Repositary Contents
+# Repository Contents
 
 
 ### 1. NP1_aSi_208
@@ -48,17 +48,17 @@ Folder: [Si Nanoparticle 208 atoms](./NP1_aSi_208)
 
 This folder contains the simulated data and source codes for the application of the AET workflow to a 208-atom amorphous Si nanoparticle.
 
-### 1.1. NP1_aSi_D2nm_From_Busch
+### 1.1. NP1_aSi_208_From_Busch
 
-Folder: [Si Nanopartile 2nm_From_Busch](./NP1_aSi_D2nm_Projeciton_From_Busch)
+Folder: [Si Nanoparticle 208 from Busch](./NP1_aSi_208_From_Busch)
 
-This folder contains the simulation data of a Si nanoparticle with size of 2nm diameter ... (add other content to describe the folder)
+This folder contains the simulated data and source codes used for the reconstruction of a 208-atom amorphous Si nanoparticle by Busch et al.
 
-### 2. NP2_aSi_D9nmm
+### 2. NP2_aSi_19993
 
-Folder: [Si Nanopartile 9nm](./NP2_aSi_D9nm)
+Folder: [Si Nanoparticle 19993](./NP2_aSi_19993)
 
-This folder contains the simulation data of a Si nanoparticle with size of 9nm diameter ... (add other content to describe the folder)
+This folder contains the simulated data and source codes for the application of the AET workflow to a 19993-atom amorphous Si nanoparticle.
 
 
 ### 3. NP3_aSiGeSn_D8nm
