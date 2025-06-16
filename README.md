@@ -5,7 +5,7 @@
 Yuxuan Liao<sup>1</sup>, Haozhi Sha<sup>1</sup>, Colum M. O’Leary<sup>1</sup>, Hanfeng Zhong<sup>1</sup>, Yao Yang<sup>2</sup>, and Jianwei Miao<sup>1*</sup>
 
 *<sup>1</sup>Department of Physics and Astronomy and California NanoSystems Institute, University of California, Los Angeles, CA 90095, USA.*                     
-*<sup>2</sup>2School of Engineering, Westlake University, Hangzhou, China.*  
+*<sup>2</sup>School of Engineering, Westlake University, Hangzhou, China.*  
 *<sup>*</sup>Correspondence and requests for materials should be addressed to J.M. (j.miao@ucla.edu) *   
 
 
