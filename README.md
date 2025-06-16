@@ -1,11 +1,23 @@
 # Supplementary-Data-Codes
 
+**Methods for accurate determination of the 3D atomic structure of amorphous materials**
+
+Yuxuan Liao<sup>1</sup>, Haozhi Sha<sup>1</sup>, Colum M. O’Leary<sup>1</sup>, Hanfeng Zhong<sup>1</sup>, Yao Yang<sup>2</sup>, and Jianwei Miao<sup>1*</sup>
+
+*<sup>1</sup>Department of Physics and Astronomy and California NanoSystems Institute, University of California, Los Angeles, CA 90095, USA.*                     
+*<sup>2</sup>School of Engineering, Westlake University, Hangzhou, China.*  
+<sup>*</sup>*Correspondence and requests for materials should be addressed to J.M. (j.miao@ucla.edu)*   
+
+
+## Contents
 
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
 - [Repositary Contents](#repositary-contents)
 
 # Overview
+
+This supplementary repository provides all data and MATLAB source codes associated with our paper, “Methods for accurate determination of the 3D atomic structure of amorphous materials.” It includes complete and reproducible workflows for robust image preprocessing, precise projection alignment, advanced tomographic reconstruction using the RESIRE algorithm, and systematic postprocessing for atomic tracing and elemental classification. These tools enable accurate 3D atomic structure determination across a range of disordered material systems. The repository supports both ADF-STEM-based atomic electron tomography (AET) and ptychographic AET (pAET), allowing researchers to reproduce key results, benchmark against published simulations, and apply the methodology to new experimental or simulated datasets. Code and data are modularly organized to facilitate adaptation to other atomic-scale imaging problems.
 
 # System Requirements
 
@@ -75,9 +87,9 @@ This folder contains the simulation data of a CoPdPt nanoparticle with size of 8
 
 ### 5. NP5_aSiO2_D6nm
 
-Folder: [SiO2 Nanopartile 6nm](./NP5_aSiO2_D6nm)
+Folder: [SiO<sub>2</sub> Nanopartile 6nm](./NP5_aSiO2_D6nm)
 
-This folder contains the simulation data of a SiO2 nanoparticle with size of 6nm diameter ... (add other content to describe the folder)
+This folder contains the simulation data of a SiO<sub>2</sub> nanoparticle with size of 6nm diameter ... (add other content to describe the folder)
 
 ### 6. BM3D_code
 
