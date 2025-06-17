@@ -100,9 +100,9 @@ Folder: [BM3D](./BM3D_Codes)
 
 This folder contains the BM3D source code used for image denoising.
 
-### 7. SIRT_Code_from_Busch
+### 7. SIRT_Code_From_Busch
 
-Folder: [SIRT](./SIRT_Code_from_Busch)
+Folder: [SIRT](./SIRT_Code_From_Busch)
 
 This folder contains the SIRT source code as used by Busch et al. in their reconstructions. 
 
