@@ -8,7 +8,7 @@ This folder contains the projections from Busch.
 
 Folder: [Reconstructions](./1.12_reconstructions)
 
-This folder contains the tomography reconstruction result from Busch.
+This folder contains our RESIRE tomography reconstruction using the projections from Busch.
 
 #### 1.13 Atom Tracing
 
