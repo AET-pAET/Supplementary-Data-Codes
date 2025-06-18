@@ -4,6 +4,9 @@
 
 `polyn_tracing_aSiO2_Dose1p6e3_single_slice_cov35pm_S2p0N1000_result.mat`
 
+`polyn_tracing_aSiO2_Dose1p6e4_single_slice_cov35pm_S1p0N1000_result.mat`
+
+
 #### Please download it from the **[GitHub Release](https://github.com/AET-pAET/Supplementary-Data-Codes/releases/tag/v1)**
 
 
