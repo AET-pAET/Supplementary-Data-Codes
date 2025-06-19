@@ -1,3 +1,4 @@
+% this code calculate shift from the center of mass method
 close all; clear all;
 %%
 addpath('../calculate_shiftXY');
