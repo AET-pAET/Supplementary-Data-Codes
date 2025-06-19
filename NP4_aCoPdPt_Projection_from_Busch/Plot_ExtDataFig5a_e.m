@@ -9,10 +9,10 @@ SIRT_Rec = flip(rot90(SIRT_Rec,1),1);
 img(sum(SIRT_Rec(:,:,151:151),3),[],sum(flip(rot90(RESIRE_Rec(:,:,151:151))),3),[],'colormap','gray');
 %print('-r600','-djpeg','ExtData_Fig5de.jpg');
 %%
-load('CoPdPt_test_align.mat', 'shiftX', 'shiftY'); %Alignment by Center of Mass
+load('CoPdPt_test_align_data.mat', 'shiftX', 'shiftY'); %Alignment by Center of Mass
 figure(11); clf; set(gcf,'position',[250,250,300,250]);
 hold on;
-plot(shiftX*0.347); plot(shiftY*0.347); box on;
+plot(shiftX*0.333); plot(shiftY*0.333); box on;
 legend({'ShiftX','ShiftY'})
 
 xlim([0,55]); ylim([-1.2,2.2]); yticks(-1:1);
