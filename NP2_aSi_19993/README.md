@@ -20,5 +20,5 @@ Run the polynomial atom tracing code to obtain the 3D coordinates of atoms in th
 
 Folder: [Classification and RMSD](./2.4_classification_CalRMSD)
 
-Run the k-mean classification code to distinguish atom from non-atom. Run the RMSD calculation code to obtain the accuracy of the traced atom.
+Run the K-mean classification code to distinguish atoms from non-atoms. Run the RMSD calculation code to obtain the accuracy of the traced atom.
 
