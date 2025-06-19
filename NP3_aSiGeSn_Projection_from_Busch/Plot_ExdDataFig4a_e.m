@@ -9,7 +9,7 @@ img(sum(SIRT_int_rot90(:,:,255:259),3),[],sum(rec3(:,:,255:259),3),[],'colormap'
 %
 %print('-r600','-djpeg','ExtData_Fig4de.jpg');
 %% plot CM
-load('SiGeSn_40pA_align_2.mat', 'CoM_Loct')
+load('SiGeSn_40pA_align_2_data.mat', 'CoM_Loct')
 figure(11); set(gcf,'position',[250,250,300,250]);
 clf; hold on;
 plot(-CoM_Loct'*0.195); box on;
