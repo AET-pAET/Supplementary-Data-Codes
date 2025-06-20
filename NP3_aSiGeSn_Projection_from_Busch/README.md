@@ -9,6 +9,8 @@
 
 `SiGeSn_40pA_reconres_busch_denoised_aligned.mat`
 
+`Resire_SiGeSn_40pA_10us_BM3D_COM_X4Y4_bgOPT.mat`
+
 SiGeSn-1.6E4e_per_A2.zip (Projections from Busch)
 
 Run read_data_align_SiGeSn_40pA_raw.m to generate SiGeSn_40pA_imgStack.mat SiGeSn_40pA_imgStackDeblur.mat
