@@ -14,4 +14,4 @@ This folder contains our RESIRE tomography reconstruction using the projections 
 
 Folder: [Tracing Atom Position](./1.13_tracing_classification)
 
-Run the k-mean classification code to distinguish atom from non-atom. Run the RMSD calculation code to obtain the accuracy of the traced atom.
+Run the K-mean classification code to distinguish atoms from non-atoms. Run the RMSD calculation code to obtain the accuracy of the traced atom.
