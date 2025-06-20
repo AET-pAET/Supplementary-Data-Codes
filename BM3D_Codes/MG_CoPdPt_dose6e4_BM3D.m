@@ -21,7 +21,7 @@ Dset_AfterBM3D_bg = BM3D_Main(Trunc_projections_forBM3D(:,:,:),1,alpha_mean*ones
 % save('CoPdPt_Proj_Dose5p6e4_BM3D_NoCOM.mat','Dset_AfterBM3D_bg')
 
 
-
+%% Here we show an example of BM3D using our optimized parameters. Other datasets can do in the same way.
 
 
 
